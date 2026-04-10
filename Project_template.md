@@ -42,3 +42,19 @@
 вариант С: безопасность, скорость, нажежность, цена
 
 ---
+
+## Задание 3. Создание векторного индекса
+
+Какая модель использовалась: `all-MiniLM-L6-v2`, размер эмбеддингов (1, 384)
+Какая база знаний: 31 документ (Star Wars)
+Сколько чанков в индексе: 2088
+Сколько времени заняла генерация: real	0m30.181s user	4m53.761s sys	0m9.522s
+Пример запроса к индексу:
+
+Who is Zarn Velgor?
+---
+[Zarn Velgor]
+# Zarn Velgor
+
+[Skorra]
+Starkiller (born Galen Marek) was the informal apprentice of Zarn Velgor, and the protagonist of the
