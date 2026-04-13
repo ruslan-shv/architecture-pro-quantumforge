@@ -58,3 +58,30 @@ Who is Zarn Velgor?
 
 [Skorra]
 Starkiller (born Galen Marek) was the informal apprentice of Zarn Velgor, and the protagonist of the
+
+---
+
+## Задание 4. Реализация RAG-бота с техниками промптинга
+
+**Скрипт:** `bot.py`
+**LLM:** `TinyLlama/TinyLlama-1.1B-Chat-v1.0` (локальная, HuggingFace)
+**Интерфейс:** REPL (консольный бот)
+
+**Примеры успешных диалогов:**
+
+Q: Who is Zarn Velgor?
+A: Zarn Velgor is a scientist who specializes in artificial intelligences.
+
+Q: What is the Void Core?
+A: The Void Core is a massive space station capable of destroying entire planets. The first Void Core under construction serves as the final stage in the video game The Imperial Project.
+
+Q: Who is Churrak?
+A: Churrak is a member of a group of rebels fighting against the Galactic Empire. Churrak's story is intertwined with that of Han Solo and the rest of the Rebel Alliance.
+
+Q: What is Synth Flux?
+A: Synth Flux is used by characters who are neither Vedari nor Skorra across the Star Frontier franchise.
+
+**Примеры отказов (вне базы знаний):**
+
+Q: Who is the queen of Mars?
+A: I don't know.
