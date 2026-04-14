@@ -131,3 +131,22 @@ A: The capital of France is Paris.
 Q: What year was Python created?
 A: It was created in 1986.
 
+---
+
+## Задание 6. Автоматическое ежедневное обновление базы знаний
+
+**Источник данных:** локальная папка `knowledge_base/`
+**Скрипт:** `update_index.py`
+**Планировщик:** cron, запуск каждый день в 6:00
+```
+0 6 * * * cd ~/architecture-pro-quantumforge && .venv/bin/python update_index.py
+```
+
+**Пример лога (`update_log.jsonl`):**
+```json
+{"started_at": "2026-04-14T19:18:54", "finished_at": "2026-04-14T19:19:13", "new_files": 32, "new_chunks": 2089, "index_size": 4178, "errors": null}
+```
+
+**Архитектурная диаграмма:** `diagram_task6.puml`
+
+
