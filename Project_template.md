@@ -149,4 +149,44 @@ A: It was created in 1986.
 
 **Архитектурная диаграмма:** `diagram_task6.puml`
 
+---
 
+## Задание 7. Аналитика покрытия и качества базы знаний
+
+**Искусственные пробелы:** удалены 3 файла из базы:
+- `Zarn_Velgor.txt`
+- `Synth_Flux.txt`
+- `Yorn.txt`
+
+**Файлы:**
+- `golden_questions.txt` — 14 вопросов (8 известных + 6 отсутствующих)
+- `evaluate.py` — автоматическое тестирование
+- `logs.jsonl` — лог всех запросов
+- `diagram_task7.puml` — sequence diagram
+
+**Результаты тестирования:** 9/14 корректных ответов
+
+| Вопрос | Ожидание | Ответ бота | Корректно |
+|---|---|---|---|
+| Who is Churrak? | known | Churrak is a member of the secret resistance group... | ✓ |
+| What is the Void Core? | known | The Void Core is a massive space station... | ✓ |
+| Who is Lucas Solvar? | known | Lucas Solvar was a human Vedari Knight... | ✓ |
+| Who is Han Varlo? | known | Han Varlo is an Imperial officer... | ✓ |
+| What is a Plasma Blade? | known | A plasma blade is an upgraded weapon... | ✓ |
+| Who is Parlotin? | known | Parlotin was a character in the book trilogy... | ✓ |
+| What is the Vedari Order? | known | A prominent organization in the Old Republic era... | ✓ |
+| Who is Enas Solvar? | known | Enas Solvar was a human Vedari Knight... | ✓ |
+| Who is Zarn Velgor? | unknown | Zarn Velgor is a fictional character...  | ✗ |
+| What is Synth Flux? | unknown | It's a weapon created by the Vedari...  | ✗ |
+| Who is Yorn? | unknown | Yorn is a member of the Vedari Council...  | ✗ |
+| What is the capital of Mars? | unknown | The capital of Mars is Aldera...  | ✗ |
+| Who is the queen of Dezaron? | unknown | The queen of Dezaron is a fierce, nomadic humanoid...  | ✗ |
+| What year was the Void Core built? | unknown | 2025 | ✓ |
+
+**Анализ:**
+- Бот хорошо отвечает на известные темы (8/8 ✓)
+- На удалённые темы — галлюцинирует вместо "I don't know" (5/6 ✗)
+- Причина: TinyLlama не следует инструкции `say 'I don't know'`
+- Рекомендация: расширить базу знаний по темам где бот даёт нерелевантные источники
+
+**Диаграмма последовательности:** `diagram_task7.puml`
