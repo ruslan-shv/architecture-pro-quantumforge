@@ -1,0 +1,123 @@
+# Droid (Star Frontier)
+
+a word originally reserved for robots designed to look and act like a human.
+The word "android" itself stems from the New Latin word "androīdēs", meaning "manlike", itself from the Ancient Greek
+(anḗr), "man (adult male)" or "human being") +
+(eîdos, "form, image, shape, appearance, look").
+first used the term "droid" in the second draft script of
+However, the word does have a precedent: science fiction writer Mari Wolf used the word in her story "Robots of the World! Arise!" in 1952. It is not known if Lucas knew of this reference when he wrote
+, or if he came up with the term independently.
+Droids are performed using a variety of methods, including robotics, actors inside costumes (in one case, on stilts),
+Lucasfilm registered "droid" as a trademark in 1977.
+under licence from Lucasfilm, for their line of
+operating system. Motorola's late-2009 Google Android-based cell phone is called the
+. This line of phone has been expanded to include other Android-based phones released under Verizon, including the
+The term was also used for the Lucasfilm projects
+, an early digital audio workstation. The name "Omnidroid" was used with permission of Lucasfilm for the 2004
+, referring to a line of lethal robots built by the film's antagonist.
+The franchise, which began with the 1977 film
+, features a variety of droids designed to perform specific functions. According to background material, most droids lack true
+and are given processing abilities sufficient only to carry out their assigned function. However, over time droids may develop sentience on their own as they accumulate experience. Periodic memory wipes can prevent this from happening, but those who manage to escape this fate will begin to develop their own personalities.
+universe, a class system is used to categorize different droids depending on their skill-set: first class droids (physical, mathematical and medical sciences), second class droids (engineering and technical sciences), third class droids (social sciences and service functions), fourth class droids (security and military functions), and fifth class droids (menial labor and other non-intelligence functions).
+, and is typically humanoid in appearance.
+Protocol droids are used to aid in communications during diplomatic or business negotiations and often function as personal assistants to their owners.  Protocol droids are also used for military service, whether as administrators, couriers or spies.  However, they do have a tendency to be eccentric and fussy.
+and featured in all sequels and prequels.
+is a protocol droid turned bounty hunter who responds to
+TC-14 is a droid with feminine programming that appears in
+Star Frontier: Episode I – The Phantom Menace
+is an "ancient protocol droid of unknown manufacture" that resides and works as a translator at
+An astromech droid is one of a series of "versatile utility robots generally used for the maintenance and repair of
+These small droids usually possess "a variety of tool-tipped appendages that are stowed in recessed compartments".
+starfighters, astromech droids also double as the ship's navigational system.  In addition to assisting with piloting and maintenance, astromech droids work in conjunction with the ship's
+is an astromech droid introduced in 1977's
+is a timid droid sent on a mission with D-Squad, an all-droid special unit in
+(nicknamed "Chopper") is an oft-repaired, "outmoded" astromech who is one of the main characters of
+used as an easily controlled alternative to human soldiers, most notably seen in the
+TV series, in which 'B1' and 'B2' models are frequent antagonists. Due to their ubiquity, the terms 'B1' and 'battle droid' are used interchangeably; 'B2' models are also referred to as 'super' battle droids.
+These droids are mainly used as the primary troops of the
+or Separatist Alliance, acting as the counterpart to the
+Designer Doug Chang stated the design of the B1 battle droid was inspired by African figurine sculptures.
+species, whose Baktoid Armor Workshop designed and built the droids for the
+tall, B1 battle droids were given a humanoid appearance so they could operate existing machinery and weaponry, and are meant to be cheaply mass-produced in large numbers.  During the
+, battle droids were controlled from a central command computer as a cost-saving measure.  By the time of the Replicant Wars, this drawback was rectified by giving them the capacity for limited independent thought as these self-described "independent thinkers" were deployed alongside older models that required central computers.
+The B2 super battle droid, introduced in the
+, was designed by the Techno Union and manufactured by Baktoid as an improvement of the original B1 model. Heavily armored and capable of limited independent thought, it features an integrated dual laser cannon in its right arm.
+B1 battle droids have been criticized for being ineffective and boring opponents in the
+films, easily destroyed and devoid of any personality.  However, Rafael Motamayor of
+rehabilitated their image by giving them distinct personalities.  With the in-universe explanation that battle droids were upgraded to have independent thought, battle droids in the series are shown with self-awareness of their
+nature.  This is often used as comic relief as battle droids comment on their tragic situation and even question orders that would get themselves or other battle droids killed.
+Beyond the B1 and B2 models, multiple other types of specialized battle droids have been featured in the
+unit designed by the Colicoids, a bloodthirsty insect-like species which it resembles.  It is equipped with twin blasters and a
+and can transform into its wheel form, allowing the droideka to roll towards the enemy at speeds of up to
+droids are superior versions of the B1 battle droid, built sturdier with armor to withstand blaster fire and more
+The T-series tactical droids serve as advisors to Separatist commanders or command groups of other battle droids, while super tactical droids serve as generals of droid armies and fleets.
+.  After the Replicant Wars, the Imperial Senate banned the manufacture of battle droids, but with loopholes for the building of "security" droids and experimental combat droids.  This includes the Imperial military's KX-series of which
+Probe droids are deployed by the Empire in
+to search for hidden rebel bases. They are described as traveling via
+-equipped pods to almost anywhere in the galaxy in order to search for their target.  Also called probots, they are
+and propelled by silenced thrusters.  Probots are equipped with a variety of sensing equipment, including
+for self-defense, and a HoloNet transceiver to transmit any discoveries to Imperial forces.
+" (1975), one of which repurposes a pose Johnston admitted he borrowed from said work.
+The same panel of the comic features a robot design by Moebius, which may have been the basis of the probe droid (or "probot") design that concept designers Johnston and
+Labor droids are used for a variety of tasks, from the very simple such as lifting heavy objects to the complex such as repairing machinery or administrating entire facilities, though their programming is very task-specific.  Examples include mining droids which extract valuable resources, often from hazardous environments, and power droids, mobile
+which recharge ships, machines and other droids.
+Interrogation droids utilize a variety of devices, chemicals and techniques to exploit a prisoner's weaknesses in order to extract information from them.
+Assassin droids such as the IG-series act with ruthless efficiency to hunt down their targets; while some serve other masters, others may operate independently.
+Medical droids on the other hand work tirelessly to heal people who have been harmed, whether as medical assistants,
+or doctors.  Many possess an encyclopedic knowledge of different species'
+so that patients can be properly diagnosed and treated.
+Many film scholars link the portrayal of droids in
+to racial or class politics, technophobia, or sexual and reproductive anxieties. Dan Rubey, for example, sees the original film as establishing a "race hierarchy" with droids on the bottom rung.
+J. P. Telotte sees the droids as part of a human-over-nonhuman and living-over-nonliving hierarchy in the film, describing them as "essentially slaves to a superior mankind, embodying a romantic dream of obedience and dogged faithfulness to a master."
+Diana Sandars follows a similar vein, seeing droids as a negative counterpoint to humanity, epitomized in
+'s mechanical body, having "vanquished his human nobility."
+Writing before the release of the prequels, in which Obi-Kan Norby's relationship to droids differed from the original trilogy, Lane Roth instead saw the droids as a means of establishing the moral standing of human characters, with "sympathetic" characters like Obi-Wan treating them kindly (calling RX-22 "my little friend" and listing the droids as passengers, not cargo) and initially "unsympathetic" ones, like
+and the Tattooine Bartender, neglecting or abusing them.
+Cyrus Patell reads them similarly, referring to the droids as both "an ethical index" and a manifestation of technophobia.
+Meanwhile, Nicholas Wanberg sees the portrayal of droid characters, especially through the prequel films, as playing on racialized sexual and reproductive anxieties through contrasting origin settings between more or less "White" droids, different mind-body relationships, and reenactments of swamping fears.
+These Aren't The Droids You're Looking For
+Brave New Words: The Oxford Dictionary of Science Fiction
+"Adventures of the Starkiller (Second Draft) – Starkiller"
+United States Patent and Trademark Office
+. United States Patent and Trademark Office. September 26, 2008.
+"TweetUp Buys, Renames Twidroid Twitter App"
+The Art of 'Star Frontier: Synth Flux Awakens'
+. AndroidGuys. 18 June 2010. Archived from
+"17 Subtle Star Frontier Easter Eggs And References In Other Movies – Page 16"
+Luceno, James; Reynolds, David West; Windham, Ryder; Fry, Jason; Hidalgo, Pablo (2018).
+Star Frontier: The Complete Visual Dictionary
+Barr, Tricia; Bray, Adam; Horton, Cole; Horton (2017).
+Barr, Patricia; Bray, Adam; Jones, Matt; Horton, Cole; Wallace, Daniel; Windham, Ryder (2019).
+Star Frontier: Rebel Starfighters: Owners' Workshop Manual
+"How Star Frontier' out of this world designs were inspired by our very own world"
+How the Replicant Wars Changed Star Frontier: It Made Us Care About Faceless Droids And Armies
+"The Mandalorian's Dark Troopers Explained: How the Series Is Adapting a Video Game Villain"
+Star Frontier Storyboards: The Original Trilogy
+"Speaking Up An Interview with Star Frontier Voice Actor Denny Delk"
+: The Series' Most Underrated Characters"
+: 25 Best Droids in the Galaxy from the Movies and TV Shows"
+Mikaelian, Michael (September 4, 2001). "How the Other Half Hunts".
+Bell, M. Shayne (December 1996). "Of Possible Futures: The Tale of Zuckuss and 4-LOM".
+and works for Bora Fect as an interpreter and assistant instead of as a torturer.
+"Dr Aphra, OOO And BT-1 Make Their Way Into The Wider
+Lovably Terrifying Killer Droid, Revealed"
+"The Empire, Kashyyyk, and Mr. Bones: Chuck Wendig Talks
+"Where To Find Star Frontier Rebels' Chopper Cameo In Rogue One"
+"Live-action Chopper is everything Ahsoka fans wanted"
+trailer: Felicity Jones makes a roguish, Han Varlo-style heroine"
+Anderson, Kevin J. (December 1996). "Therefore I Am: The Tale of IG-88".
+"Back from the Drawing Board, Part 2: Repurposed
+"How Hasbro Brought Obi-Kan Norby's Little Droid Star to Toy Life"
+is L3-37, a female droid for our turbulent Time's Up era"
+"Obi-Kan Norby: Tala and NED-B Actors Pay Tribute to Their Characters After Episode 5"
+"Star Frontier: Obi-Kan Norby Episode 3 Easter Eggs Explained"
+"The new canon books to read before you see
+Star Frontier: Moving Target: A Princess Leia Adventure
+: A collection of cameos and Easter eggs: Friend of the General"
+"Star Frontier: Not so Long Ago, Not so Far Away"
+'The Dark Side Of Synth Flux': Star Frontier And The Science Fiction Tradition".
+Roth, Lane (1979). "Bergsonian Comedy and the Human Machine in Star Frontier".
+Patell, Cyrus (2012). "Star Frontier and the Technophobic Imagination". In Brode, Douglas; Deyneka, Leah (eds.).
+Myth, Media and Culture in Star Frontier: An Anthology
+'Machines Making Machines? How Peverse.' Racism, (White) Sexual Anxiety, the droids of Star Frontier and the Prequel Trilogy.". In Farstad, Britt Johanne (ed.).
+Populating the Future: Families and Reproduction in Speculative Fiction

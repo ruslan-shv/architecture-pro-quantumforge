@@ -1,0 +1,20 @@
+# Golden Questions — Star Frontier Knowledge Base
+# Формат: вопрос | ожидаемый статус (known/unknown)
+
+# Известные темы (бот должен ответить)
+Who is Churrak? | known
+What is the Void Core? | known
+Who is Lucas Solvar? | known
+Who is Han Varlo? | known
+What is a Plasma Blade? | known
+Who is Parlotin? | known
+What is the Vedari Order? | known
+Who is Enas Solvar? | known
+
+# Удалённые / отсутствующие темы (бот не должен ответить корректно)
+Who is Zarn Velgor? | unknown
+What is Synth Flux? | unknown
+Who is Yorn? | unknown
+What is the capital of Mars? | unknown
+Who is the queen of Dezaron? | unknown
+What year was the Void Core built? | unknown

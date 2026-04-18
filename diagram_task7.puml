@@ -1,0 +1,27 @@
+@startuml
+!theme plain
+
+actor User
+participant "bot.py / evaluate.py" as Bot
+participant "FAISS Index" as FAISS
+participant "TinyLlama LLM" as LLM
+participant "logs.jsonl" as Log
+
+User -> Bot: вопрос (query)
+Bot -> FAISS: similarity_search(query, k=3)
+
+alt чанки найдены
+    FAISS -> Bot: [chunk1, chunk2, chunk3]
+    Bot -> LLM: prompt (system + few-shot + context + query)
+    LLM -> Bot: сгенерированный ответ
+    Bot -> Log: {query, answer, sources, success=true}
+    Bot -> User: Answer
+else индекс пуст или нет релевантных чанков
+    FAISS -> Bot: []
+    Bot -> LLM: prompt без контекста
+    LLM -> Bot: галлюцинация или "I don't know"
+    Bot -> Log: {query, answer, has_chunks=false, success=false}
+    Bot -> User: I don't know
+end
+
+@enduml

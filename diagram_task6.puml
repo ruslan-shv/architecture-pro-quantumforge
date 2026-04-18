@@ -1,0 +1,34 @@
+@startuml
+!theme plain
+
+rectangle "Источник данных" as src {
+    folder "knowledge_base/" as kb
+}
+
+rectangle "update_index.py" as script {
+    component "Сканирование новых файлов\n(сравнение mtime)" as scan
+    component "Разбивка на чанки\n(RecursiveCharacterTextSplitter)" as split
+    component "Генерация эмбеддингов\n(all-MiniLM-L6-v2)" as embed
+    component "Обновление FAISS индекса" as update
+    component "Логирование\n(update_log.jsonl)" as log
+}
+
+database "faiss_index/" as faiss
+file "indexed_files.json\n(состояние)" as state
+file "update_log.jsonl\n(логи)" as logfile
+
+rectangle "Планировщик" as cron {
+    component "cron\n0 6 * * *" as job
+}
+
+job --> script : запуск каждый день в 6:00
+kb --> scan
+scan --> state : проверка / обновление
+scan --> split : новые файлы
+split --> embed
+embed --> update
+update --> faiss
+script --> log
+log --> logfile
+
+@enduml
